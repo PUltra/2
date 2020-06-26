@@ -1,0 +1,11 @@
+E:\K.Widza, koncepcje, badania\Opublikowane\Codeproject - Overview of numerical methods\NumericalMethods\MatrixPolynominal\bin\Debug\MatrixPolynominal.dll
+E:\K.Widza, koncepcje, badania\Opublikowane\Codeproject - Overview of numerical methods\NumericalMethods\MatrixPolynominal\bin\Debug\MatrixPolynominal.pdb
+E:\K.Widza, koncepcje, badania\Opublikowane\Codeproject - Overview of numerical methods\NumericalMethods\MatrixPolynominal\obj\Debug\MatrixPolynominal.dll
+E:\K.Widza, koncepcje, badania\Opublikowane\Codeproject - Overview of numerical methods\NumericalMethods\MatrixPolynominal\obj\Debug\MatrixPolynominal.pdb
+E:\K.Widza, koncepcje, badania\Opublikowane\Codeproject - Overview of numerical methods\NumericalMethods\MatrixPolynominal\obj\Debug\MatrixPolynominal.csprojResolveAssemblyReference.cache
+C:\tmp\NumericalMethods\NumericalMethods\MatrixPolynominal\bin\Debug\MatrixPolynominal.dll
+C:\tmp\NumericalMethods\NumericalMethods\MatrixPolynominal\bin\Debug\MatrixPolynominal.pdb
+C:\tmp\NumericalMethods\NumericalMethods\MatrixPolynominal\obj\Debug\MatrixPolynominal.csprojResolveAssemblyReference.cache
+C:\tmp\NumericalMethods\NumericalMethods\MatrixPolynominal\obj\Debug\MatrixPolynominal.csproj.CoreCompileInputs.cache
+C:\tmp\NumericalMethods\NumericalMethods\MatrixPolynominal\obj\Debug\MatrixPolynominal.dll
+C:\tmp\NumericalMethods\NumericalMethods\MatrixPolynominal\obj\Debug\MatrixPolynominal.pdb
